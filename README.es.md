@@ -2,4 +2,4 @@
 
 [English](README.md) 🇺🇸 | [Español](README.es.md) 🇨🇴
 
-This project example will allow you to explain base Javascript concepts.
+Este proyecto de ejemplo te permitirá explicar los conceptos básicos de Javascript.
